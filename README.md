@@ -5,7 +5,7 @@
   
 ### Spotify Playing 🎧
 
-[![Spotify](https://mo-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/mo-spotify)
+[![Spotify](https://mo-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/22hge3mrwjp2lhmtad2nt3aaq)
 
 
 
