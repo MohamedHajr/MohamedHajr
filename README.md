@@ -1,6 +1,6 @@
 
  👨🏽‍💻  Working on [RemoteDevops.ninja](https://www.remoteDevops.ninja)<br>
- 🌱  Currently learning AWS heavily to clear the AWS Certified DevOps Engineer - Professional by the end of 2020<br>
+ 🌱  Currently Grinding AWS to clear the AWS Certified DevOps Engineer - Professional by the end of 2020<br>
  🔭  Looking to collaborate on any open source project related to AWS and Golang 🤝<br>
   
 ### Spotify Playing 🎧
