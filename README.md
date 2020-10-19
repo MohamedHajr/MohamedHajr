@@ -1,7 +1,7 @@
 
- 👨🏽‍💻 working on [RemoteDevops.ninja](https://www.remoteDevops.ninja)<br>
- 🌱 Currently learning AWS heavily to clear the Devops Porfessional by the end of 2020<br>
- 🔭 Looking to collaborate on any open source project related to AWS and Golang 🤝<br>
+ 👨🏽‍💻  Working on [RemoteDevops.ninja](https://www.remoteDevops.ninja)<br>
+ 🌱  Currently learning AWS heavily to clear the Devops Porfessional by the end of 2020<br>
+ 🔭  Looking to collaborate on any open source project related to AWS and Golang 🤝<br>
   
 ### Spotify Playing 🎧
 
