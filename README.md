@@ -13,6 +13,7 @@
   <img width="10%" src="https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
   <img width="10%" src="https://images.youracclaim.com/size/340x340/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png">
   <img width="10%" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png">
+  <img width="10%" src="https://images.credly.com/size/340x340/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png">
   <img width="10%" src="https://images.youracclaim.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png">
 </p>  
 
