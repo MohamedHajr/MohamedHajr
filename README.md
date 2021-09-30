@@ -35,7 +35,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	<img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
   	<img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">
+<!-- 	<img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> -->
   <br />
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
