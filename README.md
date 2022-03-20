@@ -1,7 +1,7 @@
 
- 👨🏽‍💻  Working on [RemoteDevops.ninja](https://www.remoteDevops.ninja)<br>
+ 👨🏽‍💻  Jack of all trades and specialist of some <br>
  🌱  Currently Grinding AWS to clear the AWS Certified DevOps Engineer - Professional <br>
- 🔭  Looking to collaborate on any open source project related to AWS and Golang 🤝<br>
+ 
   
 ### Spotify Playing 🎧
 
