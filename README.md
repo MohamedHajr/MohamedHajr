@@ -1,6 +1,5 @@
 
  👨🏽‍💻  Jack of all trades and specialist of some <br>
- 🌱  Currently Grinding AWS to clear the AWS Certified DevOps Engineer - Professional <br>
  
   
 ### Spotify Playing 🎧
